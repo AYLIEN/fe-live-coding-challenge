@@ -40,6 +40,7 @@ Please prepare yourself before the interview but do not spend more than 15 minut
     - when clicked the tile should expand to the full width of the app and show more data.
 
 ## Final note
+Due to time limitations you may want to leave a comment in parts of the refactor that would be time consuming, but still worth doing so we still get the idea of what would you do in a normal scenario.
 While working on the task you can use help of the internet as well as discuss everything with us!
 
 ## Enjoy!
