@@ -1,11 +1,11 @@
 ## Welcome!
 
-This project will be used to test your skills during the interview. We are going to ask you a couple of questions about the code. During the interview, you will be asked to propose changes and you will have a chance to implement them on your own.
+This project will be used to test your skills **during the interview**. We are going to ask you a couple of questions about the code. You will be asked to propose changes and you will have a chance to implement them on your own.
 
 
 ## Before the interview
 
-Please prepare yourself before the interview but do not spend more than 15 minutes on it. Please read this README file carefully and check the code of the application. Focus mostly on [App.tsx](/src/views/App.tsx) as this is a file which we are going to discuss during the interview. Do not modify the code yet! You will do this during the interview.
+Please prepare yourself before the interview but do not spend more than 15 minutes on it. Please read this README file carefully and check the code of the application. Focus mostly on [App.tsx](/src/views/App.tsx) as this is a file which we are going to discuss. Do not modify the code yet! You will do this during the interview.
 
 ## The challenge
   - Look at the project as you'd like to continue its development. Refactor the code using your knowledge about best practices etc. Focus on using available tools rather than bringing something new to the project.
